@@ -1,0 +1,20 @@
+title: "AlgoFlix – OTT Platform"
+
+short_summary: |
+  A team-based OTT platform mini project implemented in C using Data Structures and Algorithms. The application provides a menu-driven environment for managing OTT-style content and user operations.
+
+tech_stack:
+  - C
+  - Data Structures
+  - Algorithms
+
+problem_statement: |
+  The project demonstrates how fundamental Data Structures and Algorithms concepts can be applied to build an interactive OTT-style application.
+
+approach: |
+  The application was implemented in C using structured programming, data handling, searching, and other DSA concepts required for the platform's operations.
+
+results_impact: |
+  Developed and tested a working menu-driven OTT platform as part of a team-based academic project, gaining practical experience in C programming and DSA implementation.
+
+repo_url: "https://github.com/patilbhoom/AlgoFlix-OTT-Platform"
