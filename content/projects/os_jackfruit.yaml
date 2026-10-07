@@ -1,0 +1,22 @@
+title: "OS-Jackfruit – Multi-Container Runtime"
+
+short_summary: |
+  A team-based Linux systems project that explores a lightweight multi-container runtime with process isolation, inter-process communication, resource monitoring, and scheduling concepts.
+
+tech_stack:
+  - C
+  - Linux
+  - Operating Systems
+  - IPC
+  - Process Management
+
+problem_statement: |
+  Containerized environments require mechanisms for process isolation, communication, resource management, and controlled execution.
+
+approach: |
+  The project explores operating-system-level mechanisms for creating and managing isolated execution environments, along with resource monitoring and scheduling experiments.
+
+results_impact: |
+  Gained hands-on experience with Linux process management, system-level programming, IPC, resource monitoring, and operating-system concepts through a team project.
+
+repo_url: "https://github.com/pragnyaakula2/OS-Jackfruit"
