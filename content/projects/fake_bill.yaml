@@ -1,0 +1,22 @@
+title: "Fake Bill Detection"
+
+short_summary: |
+  A machine learning application that identifies potentially fake bills from extracted bill features. The project combines a Decision Tree model with a Django web application and PostgreSQL database to provide a practical detection workflow.
+
+tech_stack:
+  - Python
+  - Scikit-learn
+  - Decision Tree
+  - Django
+  - PostgreSQL
+
+problem_statement: |
+  Manual verification of bills can be time-consuming and difficult to scale. The project explores how machine learning can assist in identifying potentially fraudulent bills from available bill information.
+
+approach: |
+  The project uses data preprocessing and feature-based machine learning to train a Decision Tree classifier. The trained model is integrated into a Django application, with PostgreSQL used for data storage.
+
+results_impact: |
+  Built an end-to-end machine learning application connecting model prediction with a web interface and database backend.
+
+repo_url: "https://github.com/patilbhoom"
