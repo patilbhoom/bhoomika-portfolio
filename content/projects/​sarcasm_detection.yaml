@@ -1,0 +1,22 @@
+title: "Sarcasm Detection using NLP"
+
+short_summary: |
+  A natural language processing project that uses machine learning to identify sarcastic text. The project explores text preprocessing and classification techniques for understanding patterns in written language.
+
+tech_stack:
+  - Python
+  - NLP
+  - Scikit-learn
+  - Pandas
+  - NumPy
+
+problem_statement: |
+  Sarcasm can change the intended meaning of written text and is difficult for traditional text-processing systems to interpret.
+
+approach: |
+  Text data was cleaned and transformed into machine-learning features before training a classification model to distinguish sarcastic and non-sarcastic text.
+
+results_impact: |
+  Built an NLP classification pipeline for detecting sarcasm and gained practical experience with text preprocessing and machine learning classification.
+
+repo_url: "https://github.com/patilbhoom"
