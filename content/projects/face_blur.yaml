@@ -1,0 +1,21 @@
+title: "Face Blur Privacy Filter"
+
+short_summary: |
+  A computer vision application that detects faces in images or video and applies privacy-preserving anonymization using different blur and pixelation techniques.
+
+tech_stack:
+  - Python
+  - OpenCV
+  - NumPy
+  - Computer Vision
+
+problem_statement: |
+  Sharing images and video containing identifiable faces can create privacy concerns. The project explores automated face detection and anonymization.
+
+approach: |
+  OpenCV-based face detection is used to locate faces, after which different anonymization techniques such as Gaussian blur and pixelation can be applied.
+
+results_impact: |
+  Developed a practical computer vision application for real-time face detection and privacy-oriented face anonymization as a team project.
+
+repo_url: "https://github.com/pragnyaakula2/face-blur-privacy-filter"
