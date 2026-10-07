@@ -1,0 +1,23 @@
+title: "Object Classification using CNN"
+
+short_summary: |
+  A deep learning project that uses a Convolutional Neural Network to classify images into object categories. The project combines TensorFlow-based model development with a Django interface for interacting with the trained model.
+
+tech_stack:
+  - Python
+  - TensorFlow
+  - CNN
+  - Django
+  - NumPy
+  - Matplotlib
+
+problem_statement: |
+  Image classification requires a model capable of learning meaningful visual patterns from images and assigning them to the appropriate categories.
+
+approach: |
+  A Convolutional Neural Network was developed and trained using image data. The trained model was then connected to a Django application to provide an interface for classification.
+
+results_impact: |
+  Developed a working image classification pipeline and integrated the trained deep learning model into a web application.
+
+repo_url: "https://github.com/patilbhoom"
